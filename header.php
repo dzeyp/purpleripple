@@ -38,7 +38,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="row main-row main-nav no-gutter">
 	<div class="col-3">
-		asdf
+		<h6 style="padding:13px 0; color:#fff; -webkit-text-stroke: 1px #582a72;">Place Logo Here</h6>
 	</div>
 	<div class="col-9 text-right">
 		<div class="d-none d-md-block">

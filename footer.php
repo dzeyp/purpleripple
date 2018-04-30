@@ -8,7 +8,9 @@
  */
 ?>
 
+<div class="row footer no-gutter">
 
+</div>
 
 </div><!-- container-fluid -->
 

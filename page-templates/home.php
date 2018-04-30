@@ -91,27 +91,27 @@ get_header(); ?>
 	<div class="col-12 col-md-5">
 		<div class="row no-gutter">
 			<div class="col-4 text-center">
-				<i class="fas fa-birthday-cake"></i>
+				<i class="fas fa-birthday-cake" style="color:#FFAAAA"></i>
 				<h6>Food catering</h6>
 			</div>
 			<div class="col-4 text-center">
-				<i class="fas fa-gift"></i>
+				<i class="fas fa-gift" style="color:#A66FA6"></i>
 				<h6>Decor</h6>
 			</div>
 			<div class="col-4 text-center">
-				<i class="fas fa-building"></i>
+				<i class="fas fa-building" style="color:#8080B3"></i>
 				<h6>Venue</h6>
 			</div>
 			<div class="col-4 text-center">
-				<i class="fas fa-magic"></i>
+				<i class="fas fa-magic" style="color:#75AF96"></i>
 				<h6>Fun</h6>
 			</div>
 			<div class="col-4 text-center">
-				<i class="fas fa-camera-retro"></i>
+				<i class="fas fa-camera-retro" style="color:#E8F6A4"></i>
 				<h6>Photo &amp; Video</h6>
 			</div>
 			<div class="col-4 text-center">
-				<i class="fas fa-music"></i>
+				<i class="fas fa-music" style="color:#FFEAAA"></i>
 				<h6>Lights &amp; Sounds</h6>
 			</div>
 		</div>
@@ -163,6 +163,76 @@ get_header(); ?>
 				<h6 class="desc">We'll help you with the event</h6>
 			</div>
 		</div>
+	</div>
+</div>
+
+<div class="row main-row packages no-gutter">
+	<div class="col-12 offset-md-1 col-md-10 text-center">
+		<h6 class="title">Choose your party</h6>
+		<h2>Our Events Packages</h2>
+	</div>
+	<div class="offset-1 col-10 offset-sm-2 col-sm-8 offset-md-1 col-md-10">
+		<div class="row">
+			<div class="col-12 col-md-6 col-lg-3 text-center">
+				<div class="package">
+					<div class="head" style="background-color:#9775AA">
+						<h3>Birthday Parties</h3>
+					</div>
+					<h4>from <span>AED 150</span></h4>
+					<ul>
+						<li>4 hours</li>
+						<li>Up to 50 persons</li>
+						<li>Decorations</li>
+						<li>Catering</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 text-center">
+				<div class="package">
+					<div class="head" style="background-color:#D4D46A">
+						<h3>Weddings Celebrations</h3>
+					</div>
+					<h4>from <span>AED 150</span></h4>
+					<ul>
+						<li>4 hours</li>
+						<li>Up to 50 persons</li>
+						<li>Decorations</li>
+						<li>Catering</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 text-center">
+				<div class="package">
+					<div class="head" style="background-color:#669999">
+						<h3>Corporate Events</h3>
+					</div>
+					<h4>from <span>AED 150</span></h4>
+					<ul>
+						<li>4 hours</li>
+						<li>Up to 50 persons</li>
+						<li>Decorations</li>
+						<li>Catering</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 text-center">
+				<div class="package">
+					<div class="head" style="background-color:#D49A6A">
+						<h3>Kid's Parties</h3>
+					</div>
+					<h4>from <span>AED 150</span></h4>
+					<ul>
+						<li>4 hours</li>
+						<li>Up to 50 persons</li>
+						<li>Decorations</li>
+						<li>Catering</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-12 text-center">
+		<button type="button" class="btn btn-main btn-primary btn m-3">Customized Package</button>
 	</div>
 </div>
 
